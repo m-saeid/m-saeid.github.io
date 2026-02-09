@@ -27,8 +27,7 @@ author:
   name             : "Mohammad Saeid"
   pronouns         : # example: "she/her"  
   bio              : "I am an AI researcher at Sirjan University of Technology specializing in 3D Computer Vision and Point Cloud Analysis."
-  location         : "Earth"
-  employer         : "Sirjan University of Technology (onsite)"
+  location         : "Sirjan University of Technology (onsite)" # "Earth"
   employer         : "Clemson University (remote)"
   uri              : # URL
   email            : "m.saeid@stu.sirjantech.ac.ir" 
