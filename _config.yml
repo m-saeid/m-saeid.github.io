@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Saeid"
   pronouns         : # example: "she/her"  
-  bio              : "I am an AI researcher at at Sirjan University of Technology, specializing in closing the gap between SOTA 3D vision algorithms and real-world deployment feasibility. My mission is to design hardware-aware, Green AI architectures that function reliably on constrained edge devices and robotics platforms."
+  bio              : "I am an AI researcher at Sirjan University of Technology specializing in 3D Computer Vision and Point Cloud Analysis."
   location         : "Earth"
-  employer         : "at Sirjan University of Technology"
+  employer         : "Sirjan University of Technology"
   uri              : # URL
   email            : "m.saeid@stu.sirjantech.ac.ir" 
 
