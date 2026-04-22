@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Home" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Mohammad Saeid"
-description              : &description "Lecturer & Machine Learning Researcher at Sirjan University of Technology"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "AI Researcher — Efficient 3D Deep Learning & Point Cloud Perception"
 url                      : https://m-saeid.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Saeid"
   pronouns         : # example: "she/her"  
-  bio              : "I am an AI researcher at Sirjan University of Technology specializing in 3D Computer Vision and Point Cloud Analysis."
-  location         : "Sirjan University of Tech (onsite)" # "Earth"
-  employer         : "Clemson University (remote)"
+  bio              : "AI researcher working on geometry-aware, hardware-efficient deep learning for 3D point cloud perception. Recent work accepted at ICRA 2026 and IEEE IV 2026."
+  location         : "Iran" # "Earth"
+  employer         : "TigerSec Lab, Clemson University (remote)"
   uri              : # URL
   email            : "m.saeid@stu.sirjantech.ac.ir" 
 
