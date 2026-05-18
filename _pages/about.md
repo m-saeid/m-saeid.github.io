@@ -120,6 +120,8 @@ Work led to multiple first-author publications in top-tier venues.
 
 ## Contact {#contact}
 
+## Contact {#contact}
+
 📧 Email: <a href="mailto:imm.saeid@gmail.com">imm.saeid@gmail.com</a>  
 🎓 **Google Scholar:** https://scholar.google.com/citations?user=JIyH4XoAAAAJ  
-💻 **GitHub:** https://github.com/m-saeid  
+💻 **GitHub:** https://github.com/m-saeid   
