@@ -4,13 +4,13 @@ layout: homepage
 
 <style>
   .topnav{
-    font-size:0.95rem;   /* کاهش اندازه */
+    font-size:0.95rem;
     font-weight:700;
     margin:8px 0 14px;
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
-    gap:6px 10px;       /* جمع‌تر */
+    gap:6px 10px;
     line-height:1.2;
   }
 
@@ -28,7 +28,6 @@ layout: homepage
     text-decoration:underline;
   }
 
-  /* optional: جلوگیری از شکست در صفحه‌های بزرگ */
   @media (min-width: 900px){
     .topnav{
       flex-wrap:nowrap;
