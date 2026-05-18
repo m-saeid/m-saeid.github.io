@@ -60,8 +60,6 @@ I am an **AI researcher specializing in efficient 3D deep learning and geometric
 
 My research aims to bridge the gap between **high-performance 3D deep learning models and real-world deployment constraints**, particularly on edge devices such as NVIDIA Jetson.
 
-I am currently conducting independent research collaborations in 3D point cloud learning, with a focus on efficient geometric representation learning and real-time robotic perception systems.
-
 <hr class="section-divider">
 
 ## Research {#research}
