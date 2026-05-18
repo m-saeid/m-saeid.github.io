@@ -8,31 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher focused on efficient 3D deep learning, geometric representation learning, and hardware-aware neural architectures for robotic perception.
+I am an **AI researcher focused on efficient 3D deep learning and geometric representation learning**, with an emphasis on building **lightweight and deployable point cloud perception systems** for robotics and autonomous systems.
 
-My research goal is to bridge the gap between high-performance 3D perception models and real-world deployment on resource-constrained platforms such as edge GPUs and autonomous systems.
+My work sits at the intersection of **geometric deep learning, model compression, and real-time perception**, aiming to bridge the gap between high-performing 3D neural networks and **resource-constrained edge deployment** (e.g., NVIDIA Jetson).
 
-I am currently a remote research collaborator working with Dr. Amir Salarpour on 3D point cloud learning projects associated with Clemson University. I hold an M.Sc. in Artificial Intelligence & Robotics from Sirjan University of Technology (GPA 19.9/20, ranked 1st in cohort) and am actively seeking a fully-funded PhD position in Europe or Canada to continue this research direction.
+I have first-authored multiple papers in top-tier robotics and computer vision venues, including **ICRA 2026** and **IEEE IV 2026 (oral)**, with ongoing research under review at **NeurIPS 2026**. My recent work introduces efficient architectures and learning paradigms for 3D point cloud understanding, including lightweight geometry-adaptive networks and non-parametric representation learning.
 
----
+I completed my **M.Sc. in Artificial Intelligence & Robotics at Sirjan University of Technology**, where I graduated **ranked 1st in my cohort (GPA 19.9/20)**.
 
-## Research
-
-### Efficient 3D Deep Learning
-I design lightweight neural architectures for 3D point cloud understanding that achieve competitive accuracy with significantly reduced computational cost. My recent work includes SLNet (ICRA 2026), which achieves state-of-the-art efficiency-accuracy trade-offs on ModelNet40, and NPNet (IEEE IV 2026, Oral), a fully non-parametric architecture with adaptive Gaussian–Fourier positional encoding.
-
-### Geometric Representation Learning
-My work focuses on learning representations that explicitly encode 3D geometric structure, enabling more robust and data-efficient perception compared to conventional feature-based approaches.
-
-### Efficient 3D Segmentation
-I extend these ideas to large-scale segmentation tasks, targeting indoor and outdoor benchmarks such as ScanNet and nuScenes, with emphasis on real-time inference and memory efficiency.
+Currently, I am conducting **independent research collaborations in 3D vision and efficient perception systems**, focusing on scalable and deployment-ready architectures for robotic perception.
 
 ---
 
-## Current Work
+## Research Focus
 
-I am currently working on relational feature distillation for lightweight 3D segmentation models and anisotropic geometric embeddings for few-shot 3D recognition.
+**Efficient 3D Deep Learning**  
+Designing compact point cloud networks that achieve competitive accuracy with significantly reduced parameter and compute cost.
 
-I am open to research collaborations in efficient 3D vision, geometric deep learning, and robotic perception systems.
+**Geometric Representation Learning**  
+Developing architectures that explicitly exploit the structure of 3D point clouds rather than treating them as unordered sets.
 
-Feel free to reach out if you are working in these areas.
+**Model Compression & Deployment**  
+Bringing research models closer to real-world use by optimizing for latency, memory footprint, and edge hardware constraints.
+
+**3D Scene Understanding**  
+Extending efficient learning principles from object-level classification to large-scale segmentation tasks.
+
+---
+
+## Current Direction
+
+My current work focuses on building a new class of **geometry-aware and efficiency-driven 3D learning models** that can operate reliably in real-time robotic systems. I am particularly interested in bridging the gap between **theoretical performance gains and practical deployment constraints**.
+
+I am actively seeking **PhD opportunities** in Europe and North America to further develop this direction in collaboration with research groups working on **robot perception, geometric deep learning, and efficient AI systems**.
