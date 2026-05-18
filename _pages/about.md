@@ -60,7 +60,7 @@ I am an **AI researcher specializing in efficient 3D deep learning and geometric
 
 My research aims to bridge the gap between **high-performance 3D deep learning models and real-world deployment constraints**, particularly on edge devices such as NVIDIA Jetson.
 
-I am currently conducting **independent research collaborations in 3D point cloud learning**, and I am actively seeking **PhD positions in Europe and North America**.
+I am currently conducting independent research collaborations in 3D point cloud learning, with a focus on efficient geometric representation learning and real-time robotic perception systems.
 
 <hr class="section-divider">
 
@@ -85,8 +85,8 @@ Scaling efficient architectures from object-level recognition to large-scale rob
 - **SLNet (ICRA 2026)** — Geometry-adaptive lightweight network for 3D point cloud recognition  
 - **NPNet (IEEE IV 2026, Oral)** — Non-parametric 3D learning with adaptive Gaussian–Fourier encoding  
 - **ModelNet-R / Point-SkipNet (IPRIA 2025, Oral)** — Dataset refinement and efficient graph-based architecture  
-- **NeurIPS 2026 (Under Review)** — Relational feature distillation for lightweight 3D segmentation  
-- **BMVC 2026 (In Preparation)** — Adaptive anisotropic geometric embeddings for efficient 3D recognition  
+- **NeurIPS 2026 (Under Review)** — XXX for lightweight 3D segmentation  
+- In Preparation — Adaptive anisotropic geometric embeddings for efficient 3D recognition
 
 <hr class="section-divider">
 
@@ -95,7 +95,7 @@ Scaling efficient architectures from object-level recognition to large-scale rob
 **Independent Research Collaboration (2024–Present)**  
 3D point cloud learning, efficient deep learning architectures, CUDA optimization, Jetson deployment.
 
-**Sirjan University of Technology (2021–2024)**  
+**Sirjan University of Technology (2021–Present)**  
 M.Sc. research in AI & Robotics, ranked 1st in cohort (GPA 19.9/20).  
 Work led to multiple first-author publications in top-tier venues.
 
@@ -122,6 +122,6 @@ Work led to multiple first-author publications in top-tier venues.
 
 ## Contact {#contact}
 
-📧 Email: <a href="mailto:imm.saeid@gmail.com">imm.saeid@gmail.com</a>  
-🎓 **Google Scholar:** https://scholar.google.com/citations?user=JIyH4XoAAAAJ  
-💻 **GitHub:** https://github.com/m-saeid   
+📧 <a href="mailto:imm.saeid@gmail.com">Email</a>  
+🎓 <a href="https://scholar.google.com/citations?user=JIyH4XoAAAAJ" target="_blank">Google Scholar</a>  
+💻 <a href="https://github.com/m-saeid" target="_blank">GitHub</a>
