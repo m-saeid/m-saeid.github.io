@@ -1,11 +1,5 @@
 ---
-title: ""
-permalink: /
-layout: single
-author_profile: true
-redirect_from:
-  - /about
-  - /about.html
+layout: homepage
 ---
 
 <style>
@@ -71,8 +65,8 @@ Scaling efficient architectures from object-level recognition to large-scale rob
 - **SLNet (ICRA 2026)** — Geometry-adaptive lightweight network for 3D point cloud recognition  
 - **NPNet (IEEE IV 2026, Oral)** — Non-parametric 3D learning with adaptive Gaussian–Fourier encoding  
 - **ModelNet-R / Point-SkipNet (IPRIA 2025, Oral)** — Dataset refinement and efficient graph-based architecture  
-- **NeurIPS 2026 (Under Review)** — lightweight 3D segmentation  
-- **In Preparation** — Adaptive anisotropic geometric embeddings for efficient 3D recognition  
+- **NeurIPS 2026 (Under Review)** — Relational feature distillation for lightweight 3D segmentation  
+- **BMVC 2026 (In Preparation)** — Adaptive anisotropic geometric embeddings for efficient 3D recognition  
 
 <hr class="section-divider">
 
