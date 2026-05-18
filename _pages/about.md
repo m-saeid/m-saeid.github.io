@@ -4,21 +4,36 @@ layout: homepage
 
 <style>
   .topnav{
-    font-size:1.1rem;
+    font-size:0.95rem;   /* کاهش اندازه */
     font-weight:700;
     margin:8px 0 14px;
     display:flex;
     flex-wrap:wrap;
-    gap:10px 14px;
+    justify-content:center;
+    gap:6px 10px;       /* جمع‌تر */
+    line-height:1.2;
   }
-  .topnav a{ font-weight:700; text-decoration:none; }
-  .topnav a:hover{ text-decoration:underline; }
 
-  .section-divider{
-    border:0;
-    border-top:1px solid currentColor;
-    opacity:0.18;
-    margin:18px 0;
+  .topnav a{
+    font-weight:700;
+    text-decoration:none;
+    white-space:nowrap;
+  }
+
+  .topnav span{
+    opacity:0.4;
+  }
+
+  .topnav a:hover{
+    text-decoration:underline;
+  }
+
+  /* optional: جلوگیری از شکست در صفحه‌های بزرگ */
+  @media (min-width: 900px){
+    .topnav{
+      flex-wrap:nowrap;
+      font-size:0.92rem;
+    }
   }
 </style>
 
@@ -100,6 +115,6 @@ Work led to multiple first-author publications in top-tier venues.
 
 ## Contact {#contact}
 
-Email: imm.saeid@gmail.com  
-Google Scholar: https://scholar.google.com/citations?user=JIyH4XoAAAAJ  
-GitHub: https://github.com/m-saeid  
+📧 Email: <a href="mailto:imm.saeid@gmail.com">imm.saeid@gmail.com</a>  
+🎓 **Google Scholar:** https://scholar.google.com/citations?user=JIyH4XoAAAAJ  
+💻 **GitHub:** https://github.com/m-saeid  
