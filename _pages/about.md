@@ -84,7 +84,7 @@ Scaling efficient architectures from object-level recognition to large-scale rob
 - **NPNet (IEEE IV 2026, Oral)** — Non-parametric 3D learning with adaptive Gaussian–Fourier encoding  
 - **ModelNet-R / Point-SkipNet (IPRIA 2025, Oral)** — Dataset refinement and efficient graph-based architecture  
 - **NeurIPS 2026 (Under Review)** — XXX for lightweight 3D segmentation  
-- In Preparation — Adaptive anisotropic geometric embeddings for efficient 3D recognition
+- **In Preparation** — Adaptive anisotropic geometric embeddings for efficient 3D recognition
 
 <hr class="section-divider">
 
