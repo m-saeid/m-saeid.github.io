@@ -56,25 +56,25 @@ redirect_from:
 
 ## About Me {#about}
 
-I am an **AI researcher specializing in efficient 3D deep learning and geometric representation learning**, with a focus on **lightweight, deployable perception systems for robotics and autonomous platforms**.
+I am a researcher in efficient 3D deep learning and geometric representation learning, with interests in 3D vision, point cloud understanding, 3D reconstruction, and lightweight perception systems for robotics and autonomous platforms.
 
-My research aims to bridge the gap between **high-performance 3D deep learning models and real-world deployment constraints**, particularly on edge devices such as NVIDIA Jetson.
+My research aims to bridge high-performance 3D models with real-world deployment constraints, particularly on resource-limited edge devices. 
 
 <hr class="section-divider">
 
 ## Research {#research}
 
 ### Efficient 3D Deep Learning
-Designing lightweight point cloud networks that achieve strong performance with significantly reduced computational cost.
+Designing lightweight point cloud and 3D vision models that achieve strong performance with low computational cost.
 
 ### Geometric Representation Learning
-Learning structured representations of 3D geometry for classification, segmentation, and scene understanding.
+Learning structured representations of 3D geometry for recognition, segmentation, and scene understanding.
 
-### Model Compression & Deployment
-Optimizing deep learning models for real-time inference, memory efficiency, and edge deployment.
+### 3D Reconstruction and Perception
+Exploring 3D representations for reconstruction, scene understanding, and robotic perception.
 
-### 3D Scene Understanding
-Scaling efficient architectures from object-level recognition to large-scale robotic perception tasks.
+### Model Compression & Edge Deployment
+Optimizing deep learning models for real-time inference, memory efficiency, and deployment on edge devices.
 
 <hr class="section-divider">
 
