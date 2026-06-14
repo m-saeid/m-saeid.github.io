@@ -56,9 +56,9 @@ redirect_from:
 
 ## About Me {#about}
 
-I am a researcher in efficient 3D deep learning and geometric representation learning, with interests in 3D vision, point cloud understanding, 3D reconstruction, and lightweight perception systems for robotics and autonomous platforms.
+I am a researcher in efficient 3D deep learning and geometric AI for robotic perception, with interests in point cloud understanding, geometric representation learning, and resource-efficient deployment on edge devices.
 
-My research aims to bridge high-performance 3D models with real-world deployment constraints, particularly on resource-limited edge devices. 
+My recent work has resulted in **first-author** publications at **ICRA 2026** and **IEEE IV 2026 (Oral)**, with ongoing research under review at **NeurIPS 2026**.
 
 <hr class="section-divider">
 
@@ -79,19 +79,19 @@ Optimizing deep learning models for real-time inference, memory efficiency, and 
 <hr class="section-divider">
 
 ## Publications {#publications}
-
-- **SLNet (ICRA 2026)** — Geometry-adaptive lightweight network for 3D point cloud recognition  
-- **NPNet (IEEE IV 2026, Oral)** — Non-parametric 3D learning with adaptive Gaussian–Fourier encoding  
-- **ModelNet-R / Point-SkipNet (IPRIA 2025, Oral)** — Dataset refinement and efficient graph-based architecture  
-- **NeurIPS 2026 (Under Review)** — XXX for lightweight 3D segmentation  
-- **In Preparation** — Adaptive anisotropic geometric embeddings for efficient 3D recognition
+- **SLNet (ICRA 2026)** — Super-lightweight geometry-adaptive network for efficient 3D point cloud recognition
+- **NPNet (IEEE IV 2026, Oral)** — Non-parametric 3D learning with adaptive Gaussian–Fourier encoding
+- **ModelNet-R / Point-SkipNet (IPRIA 2025, Oral)** — Dataset refinement and efficient graph-based architecture
+- **Relational Feature Distillation (NeurIPS 2026, Under Review)** — Relational distillation for efficient 3D point cloud segmentation
+- **AniGeo (In Preparation)** — Adaptive anisotropic geometric embeddings for efficient 3D recognition
 
 <hr class="section-divider">
 
 ## Experience {#experience}
 
-**Independent Research Collaboration (2024–Present)**  
-3D point cloud learning, efficient deep learning architectures, CUDA optimization, Jetson deployment.
+**Independent collaboration with researchers affiliated with Clemson University (2024–Present)**
+Conducting research on efficient 3D point cloud learning, lightweight neural architectures, CUDA-aware optimization, and deployment benchmarking on NVIDIA Jetson platforms.
+This work has led to multiple first-author publications at ICRA 2026 and IEEE IV 2026, with ongoing work under review at NeurIPS 2026.
 
 **Sirjan University of Technology (2021–Present)**  
 M.Sc. research in AI & Robotics, ranked 1st in cohort (GPA 19.9/20).  
@@ -110,7 +110,7 @@ Work led to multiple first-author publications in top-tier venues.
 
 ## Academic Service {#service}
 
-- Reviewer: IEEE IV 2026  
+- Peer Reviewer: IEEE Intelligent Vehicles Symposium (IV 2026)
 - Workshop Speaker: Transformers in 3D Point Clouds (ICIS 2024)  
 - AI Scientific Student Association — Secretary  
 
