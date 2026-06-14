@@ -89,7 +89,7 @@ Optimizing deep learning models for real-time inference, memory efficiency, and 
 
 ## Experience {#experience}
 
-**Independent collaboration with researchers affiliated with Clemson University (2024–Present)**
+**Independent Research Collaboration (2024–Present)**
 Conducting research on efficient 3D point cloud learning, lightweight neural architectures, CUDA-aware optimization, and deployment benchmarking on NVIDIA Jetson platforms.
 This work has led to multiple first-author publications at ICRA 2026 and IEEE IV 2026, with ongoing work under review at NeurIPS 2026.
 
